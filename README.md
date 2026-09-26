@@ -10,5 +10,7 @@ After searching online about various keyboards and switches, I realized I love d
 
 I love the current layout of the keyboard I have so I will be using that as a reference, along with some extra modifications and customizations.
 
-The microcontroller I have selected for this project is the XIAO nrf52840 for it's built-in bluetooth capabilities and also lithium-ion battery charging ic. This will be paired up with a 1s (3.7V) LiPo battery with a suitable capacity which will be good enough for our usecase.
+The microcontroller I have selected for this project is the `MDBT50Q-P1M nRF52840 Based BLE Module` for it's built-in bluetooth capabilities and good support ecosystem for similar projects. This will be paired up with a 1s (3.7V) LiPo battery with a suitable capacity + custom charging circuit which will be good enough for our usecase.
 
+### Keyboard layout (from [keyboard-layout-editor.com](https://keyboard-layout-editor.com)):
+![img](./keyboard-layout.png)
