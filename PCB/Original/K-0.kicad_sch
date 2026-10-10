@@ -12631,6 +12631,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 467.36 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 467.36 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59a7e366-9672-4414-b67e-f5a7a754a081")
 		)
@@ -12720,6 +12738,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 238.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 238.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 238.76 137.16 90)
 			(effects
 				(font
@@ -12879,7 +12915,7 @@
 		(at 461.01 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -12919,6 +12955,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 461.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 461.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 461.01 133.35 0)
 			(effects
 				(font
@@ -13013,7 +13067,7 @@
 		(at 257.81 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13061,6 +13115,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 257.81 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 257.81 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "facd058d-17a2-4c67-ad3e-025fe14d26a7")
 		)
@@ -13081,7 +13153,7 @@
 		(at 510.54 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13129,6 +13201,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 510.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 510.54 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7440f6f-42dd-4f5c-ae0f-579f596985f6")
 		)
@@ -13149,7 +13239,7 @@
 		(at 510.54 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13189,6 +13279,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 510.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 510.54 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 510.54 100.33 0)
 			(effects
 				(font
@@ -13286,6 +13394,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 441.96 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 441.96 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 441.96 153.67 90)
 			(effects
 				(font
@@ -13457,6 +13583,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 441.96 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 441.96 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a447f59-8f8f-4301-a4f7-a53a44f68dc4")
 		)
@@ -13574,6 +13718,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 72.39 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 72.39 254 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -13716,6 +13878,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 467.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 467.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6d315770-6408-4419-b9bb-e9620b6f9684")
 		)
@@ -13813,6 +13993,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 213.36 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 213.36 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7c1a04bd-5f13-4b52-b963-f53db93686d4")
 		)
@@ -13833,7 +14031,7 @@
 		(at 384.81 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -13873,6 +14071,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 384.81 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 384.81 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 384.81 100.33 0)
 			(effects
 				(font
@@ -14044,6 +14260,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 314.96 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 314.96 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "477fc8cd-1759-4d8d-bca2-c5926f824ecd")
 		)
@@ -14133,6 +14367,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 441.96 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 441.96 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 441.96 137.16 90)
 			(effects
 				(font
@@ -14303,6 +14555,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 187.96 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 187.96 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "75c9e07c-ba7b-48a5-aa1e-bdbe7777ef0f")
 		)
@@ -14400,6 +14670,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 516.89 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 516.89 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cb8734f5-2bbb-4580-81dc-60a382972b10")
 		)
@@ -14420,7 +14708,7 @@
 		(at 486.41 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14460,6 +14748,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 486.41 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 486.41 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 486.41 116.84 0)
 			(effects
 				(font
@@ -14554,7 +14860,7 @@
 		(at 384.81 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14594,6 +14900,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 384.81 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 384.81 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 384.81 166.37 0)
 			(effects
 				(font
@@ -14691,6 +15015,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 238.76 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 238.76 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 238.76 170.18 90)
 			(effects
 				(font
@@ -14861,6 +15203,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 264.16 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 264.16 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0d3434f8-36b6-4988-857d-cfc0e253b4e3")
 		)
@@ -15023,6 +15383,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 391.16 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 391.16 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1178a6f7-900f-431f-bcb3-8e7aaa1f35bc")
 		)
@@ -15043,7 +15421,7 @@
 		(at 461.01 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15083,6 +15461,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 461.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 461.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 461.01 149.86 0)
 			(effects
 				(font
@@ -15188,6 +15584,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 441.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 441.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1b0f0006-9ba2-4e62-a4ac-f5a15ef987f2")
 		)
@@ -15276,6 +15690,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 467.36 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 467.36 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 467.36 120.65 90)
 			(effects
 				(font
@@ -15381,6 +15813,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 391.16 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 391.16 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d927d195-e908-409a-b873-c97de9500786")
 		)
@@ -15478,6 +15928,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 264.16 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 264.16 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f2ef2bd5-41d1-42af-b16f-9180489fc660")
 		)
@@ -15498,7 +15966,7 @@
 		(at 359.41 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15538,6 +16006,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 359.41 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 359.41 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 359.41 116.84 0)
 			(effects
 				(font
@@ -15635,6 +16121,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 213.36 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 213.36 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 213.36 137.16 90)
 			(effects
 				(font
@@ -15805,6 +16309,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 187.96 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 187.96 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8a771749-148a-4679-804d-593961e84b23")
 		)
@@ -15825,7 +16347,7 @@
 		(at 99.06 88.9 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15873,6 +16395,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 99.06 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 99.06 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "cf1b2eb4-c473-4853-abe4-b316f9785afe")
 		)
@@ -15899,7 +16439,7 @@
 		(at 181.61 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -15947,6 +16487,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 181.61 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 181.61 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72a42011-0f20-4444-9de2-64e24590f4c0")
 		)
@@ -15967,7 +16525,7 @@
 		(at 538.48 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16007,6 +16565,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 538.48 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 538.48 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 538.48 83.82 0)
 			(effects
 				(font
@@ -16176,6 +16752,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 492.76 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 492.76 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "225043f8-36a4-4fe2-844d-32919694eb2c")
 		)
@@ -16265,6 +16859,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 340.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 340.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 340.36 153.67 90)
 			(effects
 				(font
@@ -16436,6 +17048,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 340.36 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 340.36 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e9b04ef8-d0c1-485f-b829-0fb8197bf9df")
 		)
@@ -16456,7 +17086,7 @@
 		(at 207.01 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -16504,6 +17134,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 207.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 207.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb316207-f3ed-47be-ae70-b8e448f4f33e")
 		)
@@ -16524,7 +17172,7 @@
 		(at 342.9 250.19 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "36729c70-9301-4b09-ad36-89f73ea8c6f9")
@@ -16566,6 +17214,24 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 342.9 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 342.9 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 342.9 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16662,6 +17328,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 416.56 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 416.56 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 416.56 170.18 90)
 			(effects
 				(font
@@ -16868,6 +17552,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 172.72 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 172.72 294.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1f15022c-098e-47eb-b014-5cfb93c81bf6")
 		)
@@ -16965,6 +17667,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 238.76 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 238.76 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cf124358-c124-414d-ad2a-e4b9a7c11b21")
 		)
@@ -17051,7 +17771,7 @@
 		(at 359.41 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17091,6 +17811,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 359.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 359.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 359.41 100.33 0)
 			(effects
 				(font
@@ -17184,7 +17922,7 @@
 		(at 359.41 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17224,6 +17962,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 359.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 359.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 359.41 149.86 0)
 			(effects
 				(font
@@ -17329,6 +18085,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 391.16 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 391.16 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0f799ab5-4065-4745-86d9-659c72b06e16")
 		)
@@ -17349,7 +18123,7 @@
 		(at 308.61 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17389,6 +18163,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 308.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 308.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 308.61 116.84 0)
 			(effects
 				(font
@@ -17468,6 +18260,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CC0402MRX5R5BB106"
+			(at 152.4 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 152.4 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 152.4 318.77 0)
 			(effects
 				(font
@@ -17638,6 +18448,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 187.96 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 187.96 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7a2d7b4d-8ce1-4931-9502-67a92dfed9bf")
 		)
@@ -17658,7 +18486,7 @@
 		(at 461.01 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17706,6 +18534,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 461.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 461.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d78b43d-694d-4e22-9ac8-4ffdd5a4e30a")
 		)
@@ -17726,7 +18572,7 @@
 		(at 359.41 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17774,6 +18620,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 359.41 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 359.41 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ffa1fe38-88b1-449e-919b-77eef159ad0d")
 		)
@@ -17794,7 +18658,7 @@
 		(at 257.81 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -17834,6 +18698,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 257.81 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 257.81 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 257.81 133.35 0)
 			(effects
 				(font
@@ -17939,6 +18821,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 289.56 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 289.56 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8d1e3dbc-8123-444e-961b-972fc48fbb95")
 		)
@@ -18025,7 +18925,7 @@
 		(at 308.61 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18065,6 +18965,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 308.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 308.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 308.61 83.82 0)
 			(effects
 				(font
@@ -18151,6 +19069,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 99.06 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 99.06 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b50cae9-af2f-4c63-891b-08ec857a3505")
 		)
@@ -18172,7 +19108,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4eca8bbc-e209-48a1-86ef-7eaf182341e4")
@@ -18220,6 +19156,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
+			(at 321.31 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 321.31 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 321.31 241.3 0)
 			(effects
 				(font
@@ -18390,6 +19344,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 314.96 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 314.96 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e9335b66-ecf8-418b-82c6-b2930ddd9570")
 		)
@@ -18410,7 +19382,7 @@
 		(at 435.61 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18450,6 +19422,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 435.61 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 435.61 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 435.61 166.37 0)
 			(effects
 				(font
@@ -18555,6 +19545,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 264.16 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 264.16 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ad919eed-b653-4434-a79c-fc8413287ade")
 		)
@@ -18652,6 +19660,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 314.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 314.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "2c3ed22f-c950-48c6-bd83-256273666e41")
 		)
@@ -18672,7 +19698,7 @@
 		(at 308.61 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18712,6 +19738,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 308.61 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 308.61 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 308.61 133.35 0)
 			(effects
 				(font
@@ -18817,6 +19861,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 391.16 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 391.16 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "362d0aba-85ac-455c-966c-851649049812")
 		)
@@ -18837,7 +19899,7 @@
 		(at 157.48 246.38 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "576dac0c-652f-48bf-8a26-43d902d7202d")
@@ -18886,6 +19948,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 157.48 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 157.48 246.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a4f6a6c2-3342-4614-b27a-7fb27eec73a9")
 		)
@@ -18912,7 +19992,7 @@
 		(at 334.01 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -18952,6 +20032,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 334.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 334.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 334.01 116.84 0)
 			(effects
 				(font
@@ -19122,6 +20220,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 340.36 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 340.36 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "867011e2-4a8a-4242-b200-eba80934f0c4")
 		)
@@ -19210,6 +20326,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 416.56 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 416.56 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 416.56 120.65 90)
 			(effects
 				(font
@@ -19307,6 +20441,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 187.96 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 187.96 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 187.96 137.16 90)
 			(effects
 				(font
@@ -19478,6 +20630,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 264.16 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 264.16 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0eefd52c-d7c7-424e-94c3-ccbec44d911e")
 		)
@@ -19563,7 +20733,7 @@
 		(at 207.01 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19611,6 +20781,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 207.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 207.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "90eb77f9-c941-4815-8c80-f3ee37eb8572")
 		)
@@ -19632,7 +20820,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5e2c0ba8-66fb-479b-b1d7-1f89da706f9e")
@@ -19680,6 +20868,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
+			(at 210.82 242.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 210.82 242.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 210.82 242.57 90)
 			(effects
 				(font
@@ -19758,6 +20964,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CC0402MRX5R5BB106"
+			(at 147.32 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 147.32 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 147.32 318.77 0)
 			(effects
 				(font
@@ -19863,6 +21087,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 391.16 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 391.16 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7ffa7e14-fb68-4657-a5fb-5d97c6b8221e")
 		)
@@ -19883,7 +21125,7 @@
 		(at 435.61 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -19923,6 +21165,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 435.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 435.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 435.61 116.84 0)
 			(effects
 				(font
@@ -20148,7 +21408,7 @@
 		(at 435.61 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20196,6 +21456,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 435.61 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 435.61 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "be479146-e8df-4981-a931-34bc978c2426")
 		)
@@ -20216,7 +21494,7 @@
 		(at 232.41 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20264,6 +21542,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 232.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 232.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5693aeb1-595b-47b5-b463-314db19f9c6b")
 		)
@@ -20284,7 +21580,7 @@
 		(at 232.41 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20332,6 +21628,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 232.41 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 232.41 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c5b90732-ff04-4a98-8eb3-2cf4e47cb382")
 		)
@@ -20352,7 +21666,7 @@
 		(at 384.81 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20400,6 +21714,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 384.81 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 384.81 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97ec6d5f-5da2-490e-9e74-761bbce360ed")
 		)
@@ -20420,7 +21752,7 @@
 		(at 283.21 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20468,6 +21800,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 283.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 283.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91fd0eef-cdf7-4b5f-aa31-057f2971ce26")
 		)
@@ -20488,7 +21838,7 @@
 		(at 181.61 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20536,6 +21886,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 181.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 181.61 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8ca4a1c1-3b5d-4222-9032-e9307ff5415c")
 		)
@@ -20556,7 +21924,7 @@
 		(at 283.21 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20604,6 +21972,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 283.21 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 283.21 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42ed0e88-6954-46ff-a5da-d728b0434ee5")
 		)
@@ -20624,7 +22010,7 @@
 		(at 321.31 250.19 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "72385334-7134-4ab1-ba86-23006b5f7edd")
@@ -20666,6 +22052,24 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 321.31 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 321.31 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 321.31 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20770,6 +22174,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 314.96 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 314.96 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "eeaa7fa6-a132-4d28-ba34-c04c4ab948f5")
 		)
@@ -20866,6 +22288,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 467.36 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 467.36 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ecae87cb-8293-4529-bfec-d0e91a27ef14")
 		)
@@ -20952,7 +22392,7 @@
 		(at 62.23 297.18 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -20992,6 +22432,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 62.23 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 62.23 297.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 62.23 297.18 0)
 			(effects
 				(font
@@ -21100,6 +22558,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 516.89 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 516.89 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "68bfe52b-6fb7-49a8-bead-425e97b70f07")
 		)
@@ -21197,6 +22673,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 264.16 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 264.16 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "29584ded-7823-4248-846b-4399593b43ae")
 		)
@@ -21217,7 +22711,7 @@
 		(at 283.21 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21265,6 +22759,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 283.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 283.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6398652-f31e-4ecb-9692-d7c17484325c")
 		)
@@ -21285,7 +22797,7 @@
 		(at 384.81 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21325,6 +22837,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 384.81 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 384.81 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 384.81 133.35 0)
 			(effects
 				(font
@@ -21402,6 +22932,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "113990583"
+			(at 67.31 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 67.31 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 67.31 133.35 0)
 			(effects
 				(font
@@ -21607,7 +23155,7 @@
 		(at 384.81 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21647,6 +23195,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 384.81 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 384.81 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 384.81 116.84 0)
 			(effects
 				(font
@@ -21741,7 +23307,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "82b176d9-c264-45b5-b6da-dcb0fc9d44ad")
@@ -21789,6 +23355,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
+			(at 363.22 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 363.22 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 363.22 241.3 0)
 			(effects
 				(font
@@ -21894,6 +23478,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 391.16 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 391.16 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "331778db-f129-402e-8afb-ba8d5eb5ad8a")
 		)
@@ -21914,7 +23516,7 @@
 		(at 461.01 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -21954,6 +23556,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 461.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 461.01 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 461.01 116.84 0)
 			(effects
 				(font
@@ -22082,6 +23702,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 214.63 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 214.63 234.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "95fdea1e-25d0-4bb2-b5b8-ad8661c420eb")
 		)
@@ -22206,6 +23844,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 492.76 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 492.76 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8c7f788-c6dd-421f-a5ef-b0a5594b3250")
 		)
@@ -22295,6 +23951,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 544.83 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 544.83 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 544.83 87.63 90)
 			(effects
 				(font
@@ -22400,6 +24074,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 187.96 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 187.96 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "77192b62-9556-4efa-b983-eac390f72afc")
 		)
@@ -22479,6 +24171,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 275.59 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 275.59 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb0e5ff3-8fe9-49a9-9784-8e7cc71e1f1b")
 		)
@@ -22499,7 +24209,7 @@
 		(at 232.41 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22547,6 +24257,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 232.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 232.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3f3238cc-cd98-4189-a7f9-1ca0de2b46ae")
 		)
@@ -22567,7 +24295,7 @@
 		(at 334.01 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22615,6 +24343,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 334.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 334.01 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ea44cc36-7ecf-49b7-8ea3-bea42e3d7f7d")
 		)
@@ -22635,7 +24381,7 @@
 		(at 181.61 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -22675,6 +24421,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 181.61 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 181.61 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 181.61 133.35 0)
 			(effects
 				(font
@@ -22754,6 +24518,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "CR0402-JW-512GLF"
+			(at 101.6 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 101.6 245.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 101.6 245.11 0)
 			(effects
 				(font
@@ -22851,6 +24633,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 516.89 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 516.89 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 516.89 104.14 90)
 			(effects
 				(font
@@ -23021,6 +24821,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 416.56 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 416.56 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cf0f8bdd-d81d-4245-8a23-1025e9d8a10f")
 		)
@@ -23110,6 +24928,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 289.56 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 289.56 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 289.56 104.14 90)
 			(effects
 				(font
@@ -23215,6 +25051,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 289.56 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 289.56 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "862cd486-97fb-45a5-915b-ef17cb881da8")
 		)
@@ -23235,7 +25089,7 @@
 		(at 257.81 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23283,6 +25137,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 257.81 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 257.81 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b3789823-ac24-4962-bc97-0eb93ae621b2")
 		)
@@ -23303,7 +25175,7 @@
 		(at 538.48 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23351,6 +25223,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 538.48 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 538.48 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7154dc19-0ef4-4037-85ed-7a293c1cf730")
 		)
@@ -23371,7 +25261,7 @@
 		(at 435.61 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23411,6 +25301,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 435.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 435.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 435.61 100.33 0)
 			(effects
 				(font
@@ -23508,6 +25416,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 416.56 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 416.56 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 416.56 153.67 90)
 			(effects
 				(font
@@ -23636,6 +25562,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 167.64 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 167.64 308.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "37d01318-8e68-400e-a487-69c892197246")
 		)
@@ -23683,7 +25627,7 @@
 		(at 283.21 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23731,6 +25675,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 283.21 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 283.21 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "94eeda32-54f6-4be1-b2c7-ad42c7bd3db4")
 		)
@@ -23751,7 +25713,7 @@
 		(at 181.61 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23799,6 +25761,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 181.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 181.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a61fd1cc-0e68-42ec-bc41-707d4ca75f15")
 		)
@@ -23819,7 +25799,7 @@
 		(at 257.81 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23867,6 +25847,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 257.81 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 257.81 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "42585af7-19bd-4c74-b5c4-9e92fb41f42d")
 		)
@@ -23887,7 +25885,7 @@
 		(at 410.21 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -23927,6 +25925,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 410.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 410.21 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 410.21 83.82 0)
 			(effects
 				(font
@@ -24032,6 +26048,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 441.96 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 441.96 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "06fbbf0c-2eef-4fb1-bb3f-a05fd826c80d")
 		)
@@ -24121,6 +26155,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 238.76 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 238.76 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 238.76 104.14 90)
 			(effects
 				(font
@@ -24226,6 +26278,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 365.76 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 365.76 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a986eef3-012f-4c32-a17c-c3120443df4d")
 		)
@@ -24247,7 +26317,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ac4491ee-8445-4550-97f9-a68e4ebcba51")
@@ -24303,6 +26373,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 210.82 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 210.82 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "781c5c71-193d-4fd3-9f11-db4cd6e8eefc")
 		)
@@ -24323,7 +26411,7 @@
 		(at 435.61 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24371,6 +26459,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 435.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 435.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4c70c318-64b8-4759-8b99-0d1e9e8d201d")
 		)
@@ -24391,7 +26497,7 @@
 		(at 486.41 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24439,6 +26545,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 486.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 486.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e44f4de6-7ae3-4af6-af84-77c993c2009e")
 		)
@@ -24459,7 +26583,7 @@
 		(at 207.01 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24499,6 +26623,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 207.01 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 207.01 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 207.01 166.37 0)
 			(effects
 				(font
@@ -24595,6 +26737,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 492.76 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 492.76 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 492.76 87.63 90)
 			(effects
 				(font
@@ -24700,6 +26860,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 340.36 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 340.36 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "50902637-2deb-478c-bf7d-609d7160f603")
 		)
@@ -24797,6 +26975,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 416.56 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 416.56 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "24efffae-1f37-476f-8519-3dcb37819c7e")
 		)
@@ -24817,7 +27013,7 @@
 		(at 363.22 250.19 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b7ba0881-ba39-4d58-ba4b-46f088122b41")
@@ -24859,6 +27055,24 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 363.22 250.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 363.22 250.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 363.22 250.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24951,7 +27165,7 @@
 		(at 410.21 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -24991,6 +27205,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 410.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 410.21 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 410.21 100.33 0)
 			(effects
 				(font
@@ -25142,6 +27374,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 213.36 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 213.36 313.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "416c116b-da0f-46e0-a574-a502003cef09")
 		)
@@ -25163,7 +27413,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "beb5dbe7-d7f8-4f77-839f-fc9cf65c6f1b")
@@ -25219,6 +27469,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 66.04 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 66.04 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc589ae2-45b2-4650-b2f3-517eb90a43b5")
 		)
@@ -25239,7 +27507,7 @@
 		(at 308.61 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25287,6 +27555,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 308.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 308.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d1f0e1f3-77f6-4635-8b49-d35bd3906b35")
 		)
@@ -25307,7 +27593,7 @@
 		(at 34.29 50.8 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25337,7 +27623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://sharvielectronics.com/product/neopixel-strip-8-x-ws2812-rgb-addressable-led/"
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -25347,6 +27633,24 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" "https://grabcad.com/library/adafruit-neopixel-stick-8-neopixels-1"
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -25470,6 +27774,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 238.76 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 238.76 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0c94f59b-244c-4867-82b8-3b3799ee686f")
 		)
@@ -25490,7 +27812,7 @@
 		(at 308.61 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25530,6 +27852,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 308.61 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 308.61 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 308.61 149.86 0)
 			(effects
 				(font
@@ -25635,6 +27975,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 365.76 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 365.76 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "90fd1e46-943f-48f1-b289-f188d6c6aa05")
 		)
@@ -25655,7 +28013,7 @@
 		(at 181.61 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25703,6 +28061,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 181.61 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 181.61 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5d86ce6d-e4ef-4afe-92ad-234c64c917a7")
 		)
@@ -25723,7 +28099,7 @@
 		(at 257.81 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25771,6 +28147,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 257.81 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 257.81 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "77b22443-eb1d-4ef6-9748-2bcbfbab6ce9")
 		)
@@ -25791,7 +28185,7 @@
 		(at 283.21 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25839,6 +28233,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 283.21 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 283.21 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "536386d7-9a30-4f07-acf7-b8934717775a")
 		)
@@ -25859,7 +28271,7 @@
 		(at 96.52 48.26 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -25899,6 +28311,24 @@
 			)
 		)
 		(property "Description" "Rotary encoder, dual channel, incremental quadrate outputs, with switch"
+			(at 96.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 96.52 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 96.52 48.26 0)
 			(effects
 				(font
@@ -26068,7 +28498,7 @@
 		(at 410.21 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26116,6 +28546,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 410.21 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 410.21 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2b9ba941-6350-4a55-b55c-e607e519b42d")
 		)
@@ -26137,7 +28585,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c93c5a92-8b4a-49fd-8ad1-2e3920931dd6")
@@ -26185,6 +28633,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
+			(at 262.89 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 262.89 237.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 262.89 237.49 90)
 			(effects
 				(font
@@ -26290,6 +28756,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 213.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 213.36 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5738b5d0-4eb9-4f1b-b446-619bdaff8b92")
 		)
@@ -26311,7 +28795,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c961bff5-dc5b-4652-b7b8-0e98d93f48ca")
@@ -26367,6 +28851,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 342.9 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 342.9 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d65c74a3-4cc5-4d75-be14-76fa2a142431")
 		)
@@ -26387,7 +28889,7 @@
 		(at 232.41 149.86 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26427,6 +28929,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 232.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 232.41 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 232.41 149.86 0)
 			(effects
 				(font
@@ -26532,6 +29052,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 544.83 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 544.83 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3df52b8b-1eea-43cb-9c4d-8a35ec1ffc7f")
 		)
@@ -26621,6 +29159,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 314.96 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 314.96 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 314.96 87.63 90)
 			(effects
 				(font
@@ -26726,6 +29282,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 213.36 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 213.36 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "7854fb3f-4287-4423-ac6d-c7ab1a6fac85")
 		)
@@ -26823,6 +29397,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 289.56 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 289.56 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d20be8e2-28ec-4187-861b-2d9a1cf785d3")
 		)
@@ -26843,7 +29435,7 @@
 		(at 232.41 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26891,6 +29483,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 232.41 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 232.41 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "227a914a-98db-48b0-8fd1-88dcd63c4c60")
 		)
@@ -26911,7 +29521,7 @@
 		(at 334.01 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -26959,6 +29569,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 334.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 334.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "46833e42-c532-4e06-85bf-10d1191e0538")
 		)
@@ -26979,7 +29607,7 @@
 		(at 410.21 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27027,6 +29655,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 410.21 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 410.21 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9add8f2f-e407-4466-84df-cde6144d2baa")
 		)
@@ -27047,7 +29693,7 @@
 		(at 410.21 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27087,6 +29733,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 410.21 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 410.21 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 410.21 133.35 0)
 			(effects
 				(font
@@ -27192,6 +29856,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 213.36 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 213.36 170.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea5b4eb2-4477-4d65-ba4a-ccc8520b19e1")
 		)
@@ -27278,7 +29960,7 @@
 		(at 334.01 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27326,6 +30008,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 334.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 334.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc3b3b87-8a52-475e-9a2d-ad91674fdcfb")
 		)
@@ -27346,7 +30046,7 @@
 		(at 359.41 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27394,6 +30094,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 359.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 359.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bf20ebdd-24a0-459a-91ac-ac908b93653a")
 		)
@@ -27414,7 +30132,7 @@
 		(at 232.41 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27462,6 +30180,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 232.41 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 232.41 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d26ac126-f53a-415f-8689-8ab42359c1f4")
 		)
@@ -27482,7 +30218,7 @@
 		(at 435.61 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27522,6 +30258,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 435.61 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 435.61 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 435.61 133.35 0)
 			(effects
 				(font
@@ -27627,6 +30381,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 238.76 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 238.76 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f78ed478-8956-44aa-bee0-c4a59288c6a6")
 		)
@@ -27647,7 +30419,7 @@
 		(at 207.01 100.33 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27687,6 +30459,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 207.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 207.01 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 207.01 100.33 0)
 			(effects
 				(font
@@ -27781,7 +30571,7 @@
 		(at 257.81 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -27821,6 +30611,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 257.81 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 257.81 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 257.81 166.37 0)
 			(effects
 				(font
@@ -27980,7 +30788,7 @@
 		(at 207.01 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28028,6 +30836,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 207.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 207.01 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19806dc0-3d16-425a-bc46-1d11311e06e7")
 		)
@@ -28048,7 +30874,7 @@
 		(at 510.54 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28088,6 +30914,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 510.54 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 510.54 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 510.54 116.84 0)
 			(effects
 				(font
@@ -28185,6 +31029,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 416.56 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 416.56 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 416.56 104.14 90)
 			(effects
 				(font
@@ -28355,6 +31217,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 365.76 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 365.76 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "332846e8-89a1-4338-adae-04c63d64d078")
 		)
@@ -28452,6 +31332,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 187.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 187.96 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c0e87bc7-d8cf-441e-82f9-a2e864385704")
 		)
@@ -28538,7 +31436,7 @@
 		(at 260.35 314.96 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28586,6 +31484,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 260.35 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 260.35 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "69b5f00d-3699-4c9e-b9e2-a561f3d29a56")
 		)
@@ -28609,7 +31525,7 @@
 		(at 181.61 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -28649,6 +31565,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 181.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 181.61 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 181.61 83.82 0)
 			(effects
 				(font
@@ -28754,6 +31688,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 264.16 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 264.16 120.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "544fa0d4-2a8f-4ca5-ba3d-12bab2762650")
 		)
@@ -28843,6 +31795,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 365.76 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 365.76 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 365.76 104.14 90)
 			(effects
 				(font
@@ -28948,6 +31918,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 441.96 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 441.96 87.63 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4305fc50-e806-4b74-90ed-39fa78368aec")
 		)
@@ -29037,6 +32025,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "1N4148WS"
+			(at 365.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 365.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 365.76 137.16 90)
 			(effects
 				(font
@@ -29208,6 +32214,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 492.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 492.76 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "567c911e-b877-4093-b33e-0e588743310b")
 		)
@@ -29228,7 +32252,7 @@
 		(at 486.41 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29276,6 +32300,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 486.41 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 486.41 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f87067c9-f2fe-43e0-b5be-98b5832671b5")
 		)
@@ -29296,7 +32338,7 @@
 		(at 410.21 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29336,6 +32378,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 410.21 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 410.21 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 410.21 116.84 0)
 			(effects
 				(font
@@ -29441,6 +32501,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 289.56 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 289.56 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6a294202-e896-4140-b5d9-8fbef63da987")
 		)
@@ -29461,7 +32539,7 @@
 		(at 486.41 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29501,6 +32579,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 486.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 486.41 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 486.41 83.82 0)
 			(effects
 				(font
@@ -29606,6 +32702,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 467.36 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 467.36 137.16 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4895831b-4475-4fde-962b-6416e4fb48cc")
 		)
@@ -29626,7 +32740,7 @@
 		(at 461.01 166.37 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29674,6 +32788,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 461.01 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 461.01 166.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "590c08ab-5d7f-4bf3-9cc9-dedc339e6c62")
 		)
@@ -29694,7 +32826,7 @@
 		(at 384.81 83.82 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -29734,6 +32866,24 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 384.81 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 384.81 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 384.81 83.82 0)
 			(effects
 				(font
@@ -29820,6 +32970,24 @@
 				(hide yes)
 			)
 		)
+		(property "CAD Model Link" ""
+			(at 199.39 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
+			(at 199.39 241.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a621a99-de7b-44a7-ad60-fb8495defd5c")
 		)
@@ -29841,7 +33009,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ff394c6d-1185-4697-becc-a6fba8a5ce8f")
@@ -29889,6 +33057,24 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" ""
+			(at 78.74 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "CAD Model Link" ""
+			(at 78.74 328.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser URL" ""
 			(at 78.74 328.93 90)
 			(effects
 				(font
