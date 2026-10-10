@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 6,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -59,7 +59,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "K-0.kicad_prl",
+    "filename": "main_board.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -123,15 +123,15 @@
   },
   "schematic": {
     "selection_filter": {
-      "graphics": true,
-      "images": true,
+      "graphics": false,
+      "images": false,
       "labels": true,
       "lockedItems": false,
-      "otherItems": true,
-      "pins": true,
-      "symbols": true,
-      "text": true,
-      "wires": true
+      "otherItems": false,
+      "pins": false,
+      "symbols": false,
+      "text": false,
+      "wires": false
     }
   }
 }
