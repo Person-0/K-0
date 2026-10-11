@@ -509,9 +509,9 @@
       "idf": "",
       "netlist": "",
       "plot": "",
-      "pos_files": "",
+      "pos_files": "../!exports/main_board/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "main_board.step",
       "svg": "",
       "vrml": ""
     },
@@ -556,7 +556,7 @@
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": false
+          "show": true
         },
         {
           "group_by": true,

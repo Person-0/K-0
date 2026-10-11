@@ -9425,6 +9425,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 295.91 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 295.91 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A5"
 			(uuid "97458c9a-05e7-4b5e-96a4-7114d0000cd1")
 		)
@@ -9945,6 +9963,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 153.67 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 153.67 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "cf1b2eb4-c473-4853-abe4-b316f9785afe")
 		)
@@ -10086,6 +10122,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 24.13 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 24.13 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "main_board"
 				(path "/458e5927-78a9-487f-b071-09d8c48814a3"
@@ -10214,6 +10268,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 153.67 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 153.67 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f609208-d242-4cb8-a991-a79e729058af")
 		)
@@ -10293,6 +10365,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 283.21 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 283.21 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 283.21 59.69 90)
 			(effects
 				(font
@@ -10509,6 +10599,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 170.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 170.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 170.18 104.14 0)
 			(effects
 				(font
@@ -10745,6 +10853,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 149.86 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 149.86 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a01e488c-38e7-4448-bd31-d5f5a8842e9b")
 		)
@@ -10972,6 +11098,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 322.58 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 322.58 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6b50cae9-af2f-4c63-891b-08ec857a3505")
 		)
@@ -11059,6 +11203,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 261.62 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 261.62 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 261.62 50.8 0)
 			(effects
 				(font
@@ -11211,6 +11373,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 104.14 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 104.14 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 104.14 54.61 90)
 			(effects
 				(font
@@ -11516,6 +11696,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 151.13 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 151.13 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0d5f14cf-8948-4faf-97a0-b9366145c016")
 		)
@@ -11604,6 +11802,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 144.78 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 144.78 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 144.78 128.27 0)
 			(effects
 				(font
@@ -11896,6 +12112,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 261.62 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 261.62 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3a9bc842-e878-4d78-9704-e8fa2a21597f")
 		)
@@ -12040,6 +12274,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 55.88 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 55.88 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 55.88 102.87 0)
 			(effects
 				(font
@@ -12204,6 +12456,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 77.47 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 77.47 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 77.47 223.52 0)
 			(effects
 				(font
@@ -12484,6 +12754,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 303.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 303.53 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9f9de1cb-d3cf-475e-8b50-cf18eef40979")
 		)
@@ -12622,6 +12910,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 154.94 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 154.94 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "95fdea1e-25d0-4bb2-b5b8-ad8661c420eb")
 		)
@@ -12746,6 +13052,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 215.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 215.9 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "cb0e5ff3-8fe9-49a9-9784-8e7cc71e1f1b")
 		)
@@ -12835,6 +13159,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 325.12 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 325.12 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 325.12 124.46 0)
 			(effects
 				(font
@@ -13046,6 +13388,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 165.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 165.1 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "37d01318-8e68-400e-a487-69c892197246")
 		)
@@ -13168,6 +13528,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 151.13 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 151.13 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "781c5c71-193d-4fd3-9f11-db4cd6e8eefc")
 		)
@@ -13247,6 +13625,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 303.53 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 303.53 59.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 303.53 59.69 90)
 			(effects
 				(font
@@ -13481,6 +13877,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 210.82 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 210.82 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "416c116b-da0f-46e0-a574-a502003cef09")
 		)
@@ -13576,6 +13990,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 66.04 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 66.04 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc589ae2-45b2-4650-b2f3-517eb90a43b5")
 		)
@@ -13654,6 +14086,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 34.29 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 34.29 50.8 0)
 			(effects
 				(font
@@ -13907,6 +14357,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 203.2 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 203.2 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "acc74bcf-09f3-4d24-be0d-1dc4e034a8db")
 		)
@@ -13994,6 +14462,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 283.21 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 283.21 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 283.21 50.8 0)
 			(effects
 				(font
@@ -14195,6 +14681,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 24.13 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 24.13 318.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 24.13 318.77 0)
 			(effects
 				(font
@@ -14463,6 +14967,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 223.52 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 223.52 220.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95accf98-c82c-4697-a41f-df65c0e73096")
 		)
@@ -14687,6 +15209,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 358.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 358.14 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "69b5f00d-3699-4c9e-b9e2-a561f3d29a56")
 		)
@@ -14852,6 +15392,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" ""
+			(at 139.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
+			(at 139.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4a621a99-de7b-44a7-ad60-fb8495defd5c")
 		)
@@ -14939,6 +15497,24 @@
 			)
 		)
 		(property "Mouser URL" ""
+			(at 78.74 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" ""
+			(at 78.74 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" ""
 			(at 78.74 142.24 90)
 			(effects
 				(font

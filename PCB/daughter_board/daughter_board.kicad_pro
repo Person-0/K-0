@@ -511,7 +511,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../!exports/daughter_board/daughter_board.step",
       "svg": "",
       "vrml": ""
     },
